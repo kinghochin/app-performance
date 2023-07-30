@@ -1,0 +1,4 @@
+{
+  "/(home)/memo-component/page": "app/(home)/memo-component/page.js",
+  "/(home)/code-split/page": "app/(home)/code-split/page.js"
+}
