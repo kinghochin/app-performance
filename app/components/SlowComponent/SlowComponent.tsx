@@ -30,6 +30,6 @@ export const SlowComponent: React.FC<{ title: string }> = ({ title }) => {
   );
 };
 
-export default SlowComponent; // Applying Memo
+export default SlowComponent; // Without Memo
 
 export const MemoSlowComponent = React.memo(SlowComponent); // Applying Memo
